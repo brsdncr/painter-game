@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc32f45897d694d3bae775aa1f197a7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - splashPrefab: {fileID: 1136381769362898, guid: 68429c6fc9409496896c1d0b5ae9a2a0,
+      type: 2}
+  - dropCam: {fileID: 20999484294719988, guid: 7e9a6a0d75be34101b787caf3385d1dc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

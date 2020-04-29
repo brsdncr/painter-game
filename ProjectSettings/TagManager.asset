@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cube
+  - Bucket
+  - BucketGenerator
+  - Ground
+  - DropCam
   layers:
   - Default
   - TransparentFX
@@ -14,9 +19,9 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
+  - Shape
+  - Buckets
+  - Splash
   - 
   - 
   - 
