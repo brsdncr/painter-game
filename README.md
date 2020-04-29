@@ -1,3 +1,3 @@
 # painter-game
  
-This is a 3d object printing game made by Unity.
+This is a 3d object painting game made by Unity.
